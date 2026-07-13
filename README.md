@@ -1,6 +1,6 @@
 👋 Hi, I'm Gauhar Ali Khan
 
-## Data Scientist | Python | ML | Streamlit
+## Frontend Developer | Data Scientist | Python | ML | Streamlit
 
 I build data-driven solutions that solve real business problems.
 Currently open to freelance projects and remote opportunities.
