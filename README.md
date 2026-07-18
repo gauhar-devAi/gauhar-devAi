@@ -17,9 +17,9 @@ Currently open to freelance projects and remote opportunities.
 ### 💻 Frontend Development
 | Project | Description | Tools | Demo |
 | :--- | :--- | :--- | :--- |
-| [Ahmed Properties] | Real Estate property listing web application with dynamic filter layouts. | HTML5, CSS3, JavaScript | [View Code 💻](gauhar-devAi/ahmed-properties) |
+| [Ahmed Properties] | Real Estate property listing web application with dynamic filter layouts. | HTML5, CSS3, JavaScript, Bootstrap | [View Code 💻](gauhar-devAi/ahmed-properties) |
 | [Karachi Flames] | Modern restaurant website design with interactive menus and responsive layouts. | HTML5, CSS3, JavaScript, Bootstrap | [View Code 💻](auhar-devAi/Karachi-flames) |
-| [Beauty Salon] | Elegant service booking and catalog website optimized for speed and mobile devices. | HTML5, CSS3, JavaScript | [View Code 💻](gauhar-devAi/Beauty-salon-website) |
+| [Beauty Salon] | Elegant service booking and catalog website optimized for speed and mobile devices. | HTML5, CSS3, JavaScript, Bootstrap | [View Code 💻](gauhar-devAi/Beauty-salon-website) |
 
 
 ## 🛠️ Skills
